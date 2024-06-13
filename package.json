@@ -1,0 +1,14 @@
+{
+  "name": "atividadecloud",
+    "version": "1.0.0",
+    "description": "Aplicação Node.js para consulta de dados de um banco de dados MySQL",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "node src/index.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mysql2": "^2.2.5"
+    }
+  }
+  
